@@ -1,0 +1,4 @@
+{
+    "plugins": ["babel-plugin-transform-class-properties"],
+    "presets": ["stage-0"]
+}
