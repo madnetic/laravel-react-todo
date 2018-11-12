@@ -1,4 +1,6 @@
 # laravel-react-todo
+An example TODO app made with Laravel and React.
+
 
 ## Installation steps
 ```
@@ -12,4 +14,5 @@ php artisan serve
 ```
 
 http://laravel-react-todo-1.herokuapp.com
+
 Demo account: demo@demo.com / demo1234
